@@ -4,4 +4,4 @@
 
 ## Step 3
 
-step 3: [step 3](./step-3.md)
+step 3: [step 3](./step-3/step-3.md)

@@ -15,4 +15,5 @@
 ## Step 1
 
 - Step1: [Cook the fettuccine pasta](./step-1/step-1.md)
+- Step2: [Season the chicken breasts with salt and pepper on both sides](./step-2/step-2.md)
 - Step4: [In the same skillet, add minced garlic and cook for about 1 minute until fragrant](./step-4/step-4.md)
